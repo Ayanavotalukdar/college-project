@@ -1,0 +1,17 @@
+**************************** Report Card ****************************
+AYANAVO TALUKDAR
+CSE
+12022002002044
+A
+37
+RESULT DETAILS 
+The Marks Obtained in Physics: 87
+The Marks Obtained in Mathematics: 88
+The Marks Obtained in Biology: 65
+The Marks Obtained in Mechanics: 67
+The Marks Obtained in Basic Electrical Engineering: 89
+The total marks of the student: 396
+RESULT REVIEW-----
+You Are Performed Good.......You Secured Grade A
+Congratulations to all of the students!!!! 
+ Who cannot performed well try to improve yourself and who performed well they try to retain this
